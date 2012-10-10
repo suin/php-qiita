@@ -19,7 +19,7 @@ The build status of the current master branch is tracked by Travis CI: [![Build 
 ```json
 {
 	"require": {
-		"suin/php-qiita": "dev-master"
+		"suin/php-qiita": ">=1.0.0"
 	}
 }
 ```

@@ -5,6 +5,11 @@ QiitaAPIを扱うためのPHP向けライブラリ
 The build status of the current master branch is tracked by Travis CI: [![Build Status](https://secure.travis-ci.org/suin/php-qiita.png?branch=master)](http://travis-ci.org/suin/php-qiita)
 
 
+## 要件
+
+* PHP 5.3 以上
+* curl拡張
+
 ## インストール
 
 [Composer](https://github.com/composer/composer)経由でインストールします。

@@ -1,0 +1,11 @@
+Coverage/
+Vendor/*
+/composer.lock
+/composer.phar
+/dbunit
+/phpcov
+/phpcpd
+/phpdcd
+/phploc
+/phpunit
+/phpunit-skelgen

@@ -1,0 +1,23 @@
+{
+        "name": "suin/phpunit-bootstrap",
+        "description": "PHPUnit distribution",
+        "keywords": ["unittest", "phpunit"],
+        "homepage": "https://github.com/suin/phpunit-bootstrap",
+        "license": "MIT",
+        "authors": [
+                {
+                        "name": "Suin",
+                        "email": "suinyeze@gmail.com"
+                }
+        ],
+	"config": {
+		"bin-dir": ".",
+		"vendor-dir": "Vendor"
+	},
+	"require": {
+		"php":            ">=5.3.2",
+		"EHER/PHPUnit":   ">=1.6",
+		"mockery/mockery": ">=0.7.2",
+		"suin/php-expose": ">=1.0"
+	}
+}

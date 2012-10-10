@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+php -S 0.0.0.0:9000 mock-web-server.php

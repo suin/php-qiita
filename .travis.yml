@@ -1,0 +1,10 @@
+language: php
+php:
+  - 5.3
+  - 5.4
+
+before_script:
+  - ./Tests/Scripts/install_composer.sh Tests
+
+script: ./Tests/phpunit --coverage-text --configuration Tests/phpunit.xml.dist
+

@@ -1,6 +1,6 @@
 # PHP Qiita (v.1.0.0)
 
-QiitaAPIを扱うためのPHP向けライブラリ
+プログラマの技術情報共有サービス[Qiita](http://qiita.com/)の[Qiita API](http://qiita.com/docs)を扱うためのPHP向けライブラリ
 
 The build status of the current master branch is tracked by Travis CI: [![Build Status](https://secure.travis-ci.org/suin/php-qiita.png?branch=master)](http://travis-ci.org/suin/php-qiita)
 
